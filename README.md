@@ -1,1 +1,3 @@
 # 4D_Gaussian_Splatting
+
+Starting with 4D_Gaussian_Splatting
